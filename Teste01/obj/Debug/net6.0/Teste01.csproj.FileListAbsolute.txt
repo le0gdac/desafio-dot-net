@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\bin\Debug\net6.0\Teste01.exe
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\bin\Debug\net6.0\Teste01.deps.json
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\bin\Debug\net6.0\Teste01.runtimeconfig.json
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\bin\Debug\net6.0\Teste01.dll
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\bin\Debug\net6.0\Teste01.pdb
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\Teste01.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\Teste01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\Teste01.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\Teste01.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\Teste01.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\Teste01.dll
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\refint\Teste01.dll
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\Teste01.pdb
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\Teste01.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste01\obj\Debug\net6.0\ref\Teste01.dll

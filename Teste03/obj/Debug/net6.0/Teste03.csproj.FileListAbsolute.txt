@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\bin\Debug\net6.0\Teste03.exe
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\bin\Debug\net6.0\Teste03.deps.json
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\bin\Debug\net6.0\Teste03.runtimeconfig.json
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\bin\Debug\net6.0\Teste03.dll
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\bin\Debug\net6.0\Teste03.pdb
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\Teste03.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\Teste03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\Teste03.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\Teste03.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\Teste03.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\Teste03.dll
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\refint\Teste03.dll
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\Teste03.pdb
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\Teste03.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\estudos\desafio-dot-net\Teste03\obj\Debug\net6.0\ref\Teste03.dll
