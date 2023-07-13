@@ -195,6 +195,7 @@
             this.Controls.Add(this.TxtNotaUm);
             this.Controls.Add(this.TxtNomeAluno);
             this.Name = "FrmNotas";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lançamento de Notas";
             this.ResumeLayout(false);
             this.PerformLayout();
