@@ -23,6 +23,7 @@ namespace WindowsFormsApp1
             string login = TxtLogin.Text;
             string senha = TxtSenha.Text;
             {
+                //Verifica se os campos foram preenchidos.
                 if (string.IsNullOrEmpty(login) && string.IsNullOrEmpty(senha))
                 {
                     LblObrigatorio.ForeColor = Color.Red;
@@ -41,6 +42,8 @@ namespace WindowsFormsApp1
                     LblObrigatorio.Text = "A Senha é obrigatória";
                     return;
                 }
+
+                //Abre o Lançamento de Notas caso os campos obrigatórios tenham sido preenchidos.
                 if (!string.IsNullOrEmpty(login) && !string.IsNullOrEmpty(senha))
                 {
                     FrmNotas janelanotas = new FrmNotas();
